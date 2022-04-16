@@ -1,0 +1,710 @@
+[p GLOBOPT AUTOSTATIC IEEE_FLT IEEE_DBL LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F4550 ]
+[d frameptr 4065 ]
+"101 C:\Users\marco\MPLABXProjects\Matri_8x8_CC.X/matrix_8x8_cc.h
+[v _write_A write_A `(v  1 e 1 0 ]
+"132
+[v _write_B write_B `(v  1 e 1 0 ]
+"163
+[v _write_C write_C `(v  1 e 1 0 ]
+"194
+[v _write_D write_D `(v  1 e 1 0 ]
+"225
+[v _write_E write_E `(v  1 e 1 0 ]
+"256
+[v _write_F write_F `(v  1 e 1 0 ]
+"287
+[v _write_G write_G `(v  1 e 1 0 ]
+"318
+[v _write_H write_H `(v  1 e 1 0 ]
+"349
+[v _write_I write_I `(v  1 e 1 0 ]
+"380
+[v _write_J write_J `(v  1 e 1 0 ]
+"411
+[v _write_K write_K `(v  1 e 1 0 ]
+"442
+[v _write_L write_L `(v  1 e 1 0 ]
+"473
+[v _write_M write_M `(v  1 e 1 0 ]
+"504
+[v _write_N write_N `(v  1 e 1 0 ]
+"535
+[v _write_eneC write_eneC `(v  1 e 1 0 ]
+"566
+[v _write_O write_O `(v  1 e 1 0 ]
+"597
+[v _write_P write_P `(v  1 e 1 0 ]
+"628
+[v _write_Q write_Q `(v  1 e 1 0 ]
+"659
+[v _write_R write_R `(v  1 e 1 0 ]
+"690
+[v _write_S write_S `(v  1 e 1 0 ]
+"721
+[v _write_T write_T `(v  1 e 1 0 ]
+"752
+[v _write_U write_U `(v  1 e 1 0 ]
+"783
+[v _write_V write_V `(v  1 e 1 0 ]
+"814
+[v _write_W write_W `(v  1 e 1 0 ]
+"845
+[v _write_X write_X `(v  1 e 1 0 ]
+"876
+[v _write_Y write_Y `(v  1 e 1 0 ]
+"907
+[v _write_Z write_Z `(v  1 e 1 0 ]
+"938
+[v _write_0 write_0 `(v  1 e 1 0 ]
+"969
+[v _write_1 write_1 `(v  1 e 1 0 ]
+"1000
+[v _write_2 write_2 `(v  1 e 1 0 ]
+"1031
+[v _write_3 write_3 `(v  1 e 1 0 ]
+"1062
+[v _write_4 write_4 `(v  1 e 1 0 ]
+"1093
+[v _write_5 write_5 `(v  1 e 1 0 ]
+"1124
+[v _write_6 write_6 `(v  1 e 1 0 ]
+"1155
+[v _write_7 write_7 `(v  1 e 1 0 ]
+"1186
+[v _write_8 write_8 `(v  1 e 1 0 ]
+"1217
+[v _write_9 write_9 `(v  1 e 1 0 ]
+"1248
+[v _write_a write_a `(v  1 e 1 0 ]
+"1279
+[v _write_b write_b `(v  1 e 1 0 ]
+"1310
+[v _write_c write_c `(v  1 e 1 0 ]
+"1341
+[v _write_d write_d `(v  1 e 1 0 ]
+"1372
+[v _write_e write_e `(v  1 e 1 0 ]
+"1403
+[v _write_f write_f `(v  1 e 1 0 ]
+"1434
+[v _write_g write_g `(v  1 e 1 0 ]
+"1465
+[v _write_h write_h `(v  1 e 1 0 ]
+"1496
+[v _write_i write_i `(v  1 e 1 0 ]
+"1527
+[v _write_j write_j `(v  1 e 1 0 ]
+"1558
+[v _write_k write_k `(v  1 e 1 0 ]
+"1589
+[v _write_l write_l `(v  1 e 1 0 ]
+"1620
+[v _write_m write_m `(v  1 e 1 0 ]
+"1651
+[v _write_n write_n `(v  1 e 1 0 ]
+"1682
+[v _write_eneM write_eneM `(v  1 e 1 0 ]
+"1713
+[v _write_o write_o `(v  1 e 1 0 ]
+"1744
+[v _write_p write_p `(v  1 e 1 0 ]
+"1775
+[v _write_q write_q `(v  1 e 1 0 ]
+"1806
+[v _write_r write_r `(v  1 e 1 0 ]
+"1837
+[v _write_s write_s `(v  1 e 1 0 ]
+"1868
+[v _write_t write_t `(v  1 e 1 0 ]
+"1899
+[v _write_u write_u `(v  1 e 1 0 ]
+"1930
+[v _write_v write_v `(v  1 e 1 0 ]
+"1961
+[v _write_w write_w `(v  1 e 1 0 ]
+"1992
+[v _write_x write_x `(v  1 e 1 0 ]
+"2023
+[v _write_y write_y `(v  1 e 1 0 ]
+"2054
+[v _write_z write_z `(v  1 e 1 0 ]
+"2085
+[v _write_qmarkup write_qmarkup `(v  1 e 1 0 ]
+"2116
+[v _write_qmarkud write_qmarkud `(v  1 e 1 0 ]
+"2147
+[v _write_prts write_prts `(v  1 e 1 0 ]
+"2178
+[v _write_prtleft write_prtleft `(v  1 e 1 0 ]
+"2209
+[v _write_prtright write_prtright `(v  1 e 1 0 ]
+"2240
+[v _write_stkman write_stkman `(v  1 e 1 0 ]
+"2271
+[v _write_smile write_smile `(v  1 e 1 0 ]
+"2302
+[v _write_sad write_sad `(v  1 e 1 0 ]
+"2333
+[v _write_fill write_fill `(v  1 e 1 0 ]
+"2364
+[v _write_emarkd write_emarkd `(v  1 e 1 0 ]
+"2395
+[v _write_emarku write_emarku `(v  1 e 1 0 ]
+"2426
+[v _write_point write_point `(v  1 e 1 0 ]
+"2457
+[v _write_prte write_prte `(v  1 e 1 0 ]
+"2488
+[v _write_numeral write_numeral `(v  1 e 1 0 ]
+"2519
+[v _write_mosaic write_mosaic `(v  1 e 1 0 ]
+"2550
+[v _write_arrowu write_arrowu `(v  1 e 1 0 ]
+"2581
+[v _write_arrowr write_arrowr `(v  1 e 1 0 ]
+"2612
+[v _write_arrowd write_arrowd `(v  1 e 1 0 ]
+"2643
+[v _write_arrowl write_arrowl `(v  1 e 1 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\fleq.c
+[v ___fleq __fleq `(b  1 e 0 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\float.c
+[v ___ftpack __ftpack `(f  1 e 4 0 ]
+"86 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 4 0 ]
+"54 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 4 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 4 0 ]
+"19 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 4 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"11 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"91 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul64.c
+[v ___omul __omul `(uo  1 e 8 0 ]
+"77 C:\Users\marco\MPLABXProjects\Matri_8x8_CC.X\Main.c
+[v _main main `(v  1 e 1 0 ]
+"16 C:\Users\marco\MPLABXProjects\Matri_8x8_CC.X/matrix_8x8_cc.h
+[v _i i `us  1 e 2 0 ]
+"3073 C:/Program Files/Microchip/MPLABX/v5.45/packs/Microchip/PIC18Fxxxx_DFP/1.2.26/xc8\pic\include\proc\pic18f4550.h
+[v _LATB LATB `VEuc  1 e 1 @3978 ]
+"3263
+[v _LATD LATD `VEuc  1 e 1 @3980 ]
+"3625
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"4001
+[v _TRISD TRISD `VEuc  1 e 1 @3989 ]
+"77 C:\Users\marco\MPLABXProjects\Matri_8x8_CC.X\Main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"172
+} 0
+"2054 C:\Users\marco\MPLABXProjects\Matri_8x8_CC.X/matrix_8x8_cc.h
+[v _write_z write_z `(v  1 e 1 0 ]
+{
+[v write_z@time time `us  1 p 2 0 ]
+"2083
+} 0
+"2023
+[v _write_y write_y `(v  1 e 1 0 ]
+{
+[v write_y@time time `us  1 p 2 0 ]
+"2052
+} 0
+"1992
+[v _write_x write_x `(v  1 e 1 0 ]
+{
+[v write_x@time time `us  1 p 2 0 ]
+"2021
+} 0
+"1961
+[v _write_w write_w `(v  1 e 1 0 ]
+{
+[v write_w@time time `us  1 p 2 0 ]
+"1990
+} 0
+"1930
+[v _write_v write_v `(v  1 e 1 0 ]
+{
+[v write_v@time time `us  1 p 2 0 ]
+"1959
+} 0
+"1899
+[v _write_u write_u `(v  1 e 1 0 ]
+{
+[v write_u@time time `us  1 p 2 0 ]
+"1928
+} 0
+"1868
+[v _write_t write_t `(v  1 e 1 0 ]
+{
+[v write_t@time time `us  1 p 2 0 ]
+"1897
+} 0
+"2240
+[v _write_stkman write_stkman `(v  1 e 1 0 ]
+{
+[v write_stkman@time time `us  1 p 2 0 ]
+"2269
+} 0
+"2271
+[v _write_smile write_smile `(v  1 e 1 0 ]
+{
+[v write_smile@time time `us  1 p 2 0 ]
+"2300
+} 0
+"2302
+[v _write_sad write_sad `(v  1 e 1 0 ]
+{
+[v write_sad@time time `us  1 p 2 0 ]
+"2331
+} 0
+"1837
+[v _write_s write_s `(v  1 e 1 0 ]
+{
+[v write_s@time time `us  1 p 2 0 ]
+"1866
+} 0
+"1806
+[v _write_r write_r `(v  1 e 1 0 ]
+{
+[v write_r@time time `us  1 p 2 0 ]
+"1835
+} 0
+"2085
+[v _write_qmarkup write_qmarkup `(v  1 e 1 0 ]
+{
+[v write_qmarkup@time time `us  1 p 2 0 ]
+"2114
+} 0
+"2116
+[v _write_qmarkud write_qmarkud `(v  1 e 1 0 ]
+{
+[v write_qmarkud@time time `us  1 p 2 0 ]
+"2145
+} 0
+"1775
+[v _write_q write_q `(v  1 e 1 0 ]
+{
+[v write_q@time time `us  1 p 2 0 ]
+"1804
+} 0
+"2147
+[v _write_prts write_prts `(v  1 e 1 0 ]
+{
+[v write_prts@time time `us  1 p 2 0 ]
+"2176
+} 0
+"2209
+[v _write_prtright write_prtright `(v  1 e 1 0 ]
+{
+[v write_prtright@time time `us  1 p 2 0 ]
+"2238
+} 0
+"2178
+[v _write_prtleft write_prtleft `(v  1 e 1 0 ]
+{
+[v write_prtleft@time time `us  1 p 2 0 ]
+"2207
+} 0
+"2457
+[v _write_prte write_prte `(v  1 e 1 0 ]
+{
+[v write_prte@time time `us  1 p 2 0 ]
+"2486
+} 0
+"2426
+[v _write_point write_point `(v  1 e 1 0 ]
+{
+[v write_point@time time `us  1 p 2 0 ]
+"2455
+} 0
+"1744
+[v _write_p write_p `(v  1 e 1 0 ]
+{
+[v write_p@time time `us  1 p 2 0 ]
+"1773
+} 0
+"1713
+[v _write_o write_o `(v  1 e 1 0 ]
+{
+[v write_o@time time `us  1 p 2 0 ]
+"1742
+} 0
+"2488
+[v _write_numeral write_numeral `(v  1 e 1 0 ]
+{
+[v write_numeral@time time `us  1 p 2 0 ]
+"2517
+} 0
+"1651
+[v _write_n write_n `(v  1 e 1 0 ]
+{
+[v write_n@time time `us  1 p 2 0 ]
+"1680
+} 0
+"2519
+[v _write_mosaic write_mosaic `(v  1 e 1 0 ]
+{
+[v write_mosaic@time time `us  1 p 2 0 ]
+"2548
+} 0
+"1620
+[v _write_m write_m `(v  1 e 1 0 ]
+{
+[v write_m@time time `us  1 p 2 0 ]
+"1649
+} 0
+"1589
+[v _write_l write_l `(v  1 e 1 0 ]
+{
+[v write_l@time time `us  1 p 2 0 ]
+"1618
+} 0
+"1558
+[v _write_k write_k `(v  1 e 1 0 ]
+{
+[v write_k@time time `us  1 p 2 0 ]
+"1587
+} 0
+"1527
+[v _write_j write_j `(v  1 e 1 0 ]
+{
+[v write_j@time time `us  1 p 2 0 ]
+"1556
+} 0
+"1496
+[v _write_i write_i `(v  1 e 1 0 ]
+{
+[v write_i@time time `us  1 p 2 0 ]
+"1525
+} 0
+"1465
+[v _write_h write_h `(v  1 e 1 0 ]
+{
+[v write_h@time time `us  1 p 2 0 ]
+"1494
+} 0
+"1434
+[v _write_g write_g `(v  1 e 1 0 ]
+{
+[v write_g@time time `us  1 p 2 0 ]
+"1463
+} 0
+"2333
+[v _write_fill write_fill `(v  1 e 1 0 ]
+{
+[v write_fill@time time `us  1 p 2 0 ]
+"2362
+} 0
+"1403
+[v _write_f write_f `(v  1 e 1 0 ]
+{
+[v write_f@time time `us  1 p 2 0 ]
+"1432
+} 0
+"1682
+[v _write_eneM write_eneM `(v  1 e 1 0 ]
+{
+[v write_eneM@time time `us  1 p 2 0 ]
+"1711
+} 0
+"535
+[v _write_eneC write_eneC `(v  1 e 1 0 ]
+{
+[v write_eneC@time time `us  1 p 2 0 ]
+"564
+} 0
+"2395
+[v _write_emarku write_emarku `(v  1 e 1 0 ]
+{
+[v write_emarku@time time `us  1 p 2 0 ]
+"2424
+} 0
+"2364
+[v _write_emarkd write_emarkd `(v  1 e 1 0 ]
+{
+[v write_emarkd@time time `us  1 p 2 0 ]
+"2393
+} 0
+"1372
+[v _write_e write_e `(v  1 e 1 0 ]
+{
+[v write_e@time time `us  1 p 2 0 ]
+"1401
+} 0
+"1341
+[v _write_d write_d `(v  1 e 1 0 ]
+{
+[v write_d@time time `us  1 p 2 0 ]
+"1370
+} 0
+"1310
+[v _write_c write_c `(v  1 e 1 0 ]
+{
+[v write_c@time time `us  1 p 2 0 ]
+"1339
+} 0
+"1279
+[v _write_b write_b `(v  1 e 1 0 ]
+{
+[v write_b@time time `us  1 p 2 0 ]
+"1308
+} 0
+"2550
+[v _write_arrowu write_arrowu `(v  1 e 1 0 ]
+{
+[v write_arrowu@time time `us  1 p 2 0 ]
+"2579
+} 0
+"2581
+[v _write_arrowr write_arrowr `(v  1 e 1 0 ]
+{
+[v write_arrowr@time time `us  1 p 2 0 ]
+"2610
+} 0
+"2643
+[v _write_arrowl write_arrowl `(v  1 e 1 0 ]
+{
+[v write_arrowl@time time `us  1 p 2 0 ]
+"2672
+} 0
+"2612
+[v _write_arrowd write_arrowd `(v  1 e 1 0 ]
+{
+[v write_arrowd@time time `us  1 p 2 0 ]
+"2641
+} 0
+"1248
+[v _write_a write_a `(v  1 e 1 0 ]
+{
+[v write_a@time time `us  1 p 2 0 ]
+"1277
+} 0
+"907
+[v _write_Z write_Z `(v  1 e 1 0 ]
+{
+[v write_Z@time time `us  1 p 2 0 ]
+"936
+} 0
+"876
+[v _write_Y write_Y `(v  1 e 1 0 ]
+{
+[v write_Y@time time `us  1 p 2 0 ]
+"905
+} 0
+"845
+[v _write_X write_X `(v  1 e 1 0 ]
+{
+[v write_X@time time `us  1 p 2 0 ]
+"874
+} 0
+"814
+[v _write_W write_W `(v  1 e 1 0 ]
+{
+[v write_W@time time `us  1 p 2 0 ]
+"843
+} 0
+"783
+[v _write_V write_V `(v  1 e 1 0 ]
+{
+[v write_V@time time `us  1 p 2 0 ]
+"812
+} 0
+"752
+[v _write_U write_U `(v  1 e 1 0 ]
+{
+[v write_U@time time `us  1 p 2 0 ]
+"781
+} 0
+"721
+[v _write_T write_T `(v  1 e 1 0 ]
+{
+[v write_T@time time `us  1 p 2 0 ]
+"750
+} 0
+"690
+[v _write_S write_S `(v  1 e 1 0 ]
+{
+[v write_S@time time `us  1 p 2 0 ]
+"719
+} 0
+"659
+[v _write_R write_R `(v  1 e 1 0 ]
+{
+[v write_R@time time `us  1 p 2 0 ]
+"688
+} 0
+"628
+[v _write_Q write_Q `(v  1 e 1 0 ]
+{
+[v write_Q@time time `us  1 p 2 0 ]
+"657
+} 0
+"597
+[v _write_P write_P `(v  1 e 1 0 ]
+{
+[v write_P@time time `us  1 p 2 0 ]
+"626
+} 0
+"566
+[v _write_O write_O `(v  1 e 1 0 ]
+{
+[v write_O@time time `us  1 p 2 0 ]
+"595
+} 0
+"504
+[v _write_N write_N `(v  1 e 1 0 ]
+{
+[v write_N@time time `us  1 p 2 0 ]
+"533
+} 0
+"473
+[v _write_M write_M `(v  1 e 1 0 ]
+{
+[v write_M@time time `us  1 p 2 0 ]
+"502
+} 0
+"442
+[v _write_L write_L `(v  1 e 1 0 ]
+{
+[v write_L@time time `us  1 p 2 0 ]
+"471
+} 0
+"411
+[v _write_K write_K `(v  1 e 1 0 ]
+{
+[v write_K@time time `us  1 p 2 0 ]
+"440
+} 0
+"380
+[v _write_J write_J `(v  1 e 1 0 ]
+{
+[v write_J@time time `us  1 p 2 0 ]
+"409
+} 0
+"349
+[v _write_I write_I `(v  1 e 1 0 ]
+{
+[v write_I@time time `us  1 p 2 0 ]
+"378
+} 0
+"318
+[v _write_H write_H `(v  1 e 1 0 ]
+{
+[v write_H@time time `us  1 p 2 0 ]
+"347
+} 0
+"287
+[v _write_G write_G `(v  1 e 1 0 ]
+{
+[v write_G@time time `us  1 p 2 0 ]
+"316
+} 0
+"256
+[v _write_F write_F `(v  1 e 1 0 ]
+{
+[v write_F@time time `us  1 p 2 0 ]
+"285
+} 0
+"225
+[v _write_E write_E `(v  1 e 1 0 ]
+{
+[v write_E@time time `us  1 p 2 0 ]
+"254
+} 0
+"194
+[v _write_D write_D `(v  1 e 1 0 ]
+{
+[v write_D@time time `us  1 p 2 0 ]
+"223
+} 0
+"163
+[v _write_C write_C `(v  1 e 1 0 ]
+{
+[v write_C@time time `us  1 p 2 0 ]
+"192
+} 0
+"132
+[v _write_B write_B `(v  1 e 1 0 ]
+{
+[v write_B@time time `us  1 p 2 0 ]
+"161
+} 0
+"101
+[v _write_A write_A `(v  1 e 1 0 ]
+{
+[v write_A@time time `us  1 p 2 0 ]
+"130
+} 0
+"1217
+[v _write_9 write_9 `(v  1 e 1 0 ]
+{
+[v write_9@time time `us  1 p 2 0 ]
+"1246
+} 0
+"1186
+[v _write_8 write_8 `(v  1 e 1 0 ]
+{
+[v write_8@time time `us  1 p 2 0 ]
+"1215
+} 0
+"1155
+[v _write_7 write_7 `(v  1 e 1 0 ]
+{
+[v write_7@time time `us  1 p 2 0 ]
+"1184
+} 0
+"1124
+[v _write_6 write_6 `(v  1 e 1 0 ]
+{
+[v write_6@time time `us  1 p 2 0 ]
+"1153
+} 0
+"1093
+[v _write_5 write_5 `(v  1 e 1 0 ]
+{
+[v write_5@time time `us  1 p 2 0 ]
+"1122
+} 0
+"1062
+[v _write_4 write_4 `(v  1 e 1 0 ]
+{
+[v write_4@time time `us  1 p 2 0 ]
+"1091
+} 0
+"1031
+[v _write_3 write_3 `(v  1 e 1 0 ]
+{
+[v write_3@time time `us  1 p 2 0 ]
+"1060
+} 0
+"1000
+[v _write_2 write_2 `(v  1 e 1 0 ]
+{
+[v write_2@time time `us  1 p 2 0 ]
+"1029
+} 0
+"969
+[v _write_1 write_1 `(v  1 e 1 0 ]
+{
+[v write_1@time time `us  1 p 2 0 ]
+"998
+} 0
+"938
+[v _write_0 write_0 `(v  1 e 1 0 ]
+{
+[v write_0@time time `us  1 p 2 0 ]
+"967
+} 0
